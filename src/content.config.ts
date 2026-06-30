@@ -1,6 +1,7 @@
+// src/content.config.ts
 import { defineCollection, z } from 'astro:content';
 
-const blogCollection = defineCollection({
+const postCollection = defineCollection({  // ← 改成 postCollection
   type: 'content',
   schema: z.object({
     title: z.string(),
@@ -43,7 +44,7 @@ const researchCollection = defineCollection({
 });
 
 export const collections = {
-  post: blogCollection,
+  post: postCollection,      // ← 改成 postCollection
   podcast: podcastCollection,
   research: researchCollection,
 };
