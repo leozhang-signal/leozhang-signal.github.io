@@ -1,5 +1,5 @@
 export const SITE_TITLE = 'Michael Zhang';
-export const SITE_DESCRIPTION = 'Personal website of Michael Zhang - Blog, Podcast, Research';
+export const SITE_DESCRIPTION = 'Personal website of Michael Zhang - Post, Podcast, Research';
 export const SITE_URL = 'https://michaelzhang-tech.github.io';
 
 export const NAV_LINKS = [
