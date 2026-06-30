@@ -4,8 +4,6 @@ date: 2026-06-29
 
 tags:
   - post
-  - blog
-  - system
 ---
 
 ## Why I started this site
