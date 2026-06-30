@@ -2,11 +2,9 @@
 title: "Episode02 Continue - PartB"
 pubDate: 2026-06-29
 description: "FlexGroup advanced features in new ONTAP release"
-
 tags:
   - podcast
   - data pulse
-
 episodeNumber: 2
 duration: "42:10"
 ---

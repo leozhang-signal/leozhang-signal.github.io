@@ -2,11 +2,9 @@
 title: "Episode01 PartA - 探索性能与灵活性的极限，深入解析NetApp AFF A系列全闪存产品"
 pubDate: 2026-06-29
 description: "Exploring the limits of performance and flexibility, diving deep into NetApp AFF A-Series all-flash product"
-
 tags:
   - podcast
   - data pulse
-
 episodeNumber: 1
 duration: "55:03"
 ---

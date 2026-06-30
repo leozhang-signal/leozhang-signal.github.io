@@ -1,18 +1,12 @@
 ---
 title: "Episode01 Continue - PartB"
 pubDate: 2026-06-29
-description: "Ep01b Data Pulse Podcast"
+description: "Exploring the limits of performance and flexibility, diving deep into NetApp AFF A-Series all-flash products"
 tags:
   - podcast
   - data pulse
-
-categories:
-  - podcast
-
-episode: 1
-part: "B"
-series: "Data Pulse"
-summary: "Exploring the limits of performance and flexibility, diving deep into NetApp AFF A-Series all-flash products"
+episodeNumber: 1
+duration: "49:01"
 ---
 
 ## Episode Summary

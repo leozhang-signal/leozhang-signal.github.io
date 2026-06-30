@@ -3,11 +3,11 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import ContentCard from '../../components/ContentCard.astro';
 import { getCollection } from 'astro:content';
 
-const posts = (await getCollection('blog'))
+const posts = (await getCollection('post'))
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 ---
 
-<BaseLayout title="Blog - Michael Zhang" description="技术博客文章">
+<BaseLayout title="Post - Michael Zhang" description="技术博客文章">
   <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
     <header class="mb-12">
       <h1 class="text-4xl font-bold text-slate-900 mb-4">博客文章</h1>

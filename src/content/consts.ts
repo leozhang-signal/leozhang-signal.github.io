@@ -7,7 +7,7 @@ export const SITE = {
   siteUrl: 'https://michaelzhang-tech.github.io',
 };
 
-export const NAVIGATION = [
+export const NAV_LINKS = [
   { name: 'Home', href: '/' },
   { name: 'Posts', href: '/post/' },
   { name: 'Podcast', href: '/podcast/' },
