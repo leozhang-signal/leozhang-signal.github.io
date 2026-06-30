@@ -8,7 +8,7 @@ draft: true
 ---
 
 ## What I Observed
-Hug is fast and easy to build up websites, and there are multiple pre-built themes to choose.
+Hugo is fast and easy to build up websites, and there are multiple pre-built themes to choose.
 While, that is true before you push to github pages. All kinds of issues happened and really hard to fix, especially
 when the themes are black boxes.
 
