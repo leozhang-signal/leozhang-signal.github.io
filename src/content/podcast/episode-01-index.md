@@ -9,11 +9,13 @@ tags:
   - data pulse
 ---
 
-# 数据心跳正式上线并发布
+## 数据心跳正式上线并发布
 
-![](/public/images/Pasted%20image%2020260629140730.png) ![](/public/images/ep01-index.png)
+![](/images/Pasted%20image%2020260629140730.png) 
 
 在 AI 浪潮与数据洪流的双重驱动下，NetApp 全闪存产品矩阵如何重新定义企业存储的性能边界？
+
+![](/images/ep01-index.png)
 
 ## 本期嘉宾
 - **Michael Zhang - 磊哥**（主持人，技术专家）
