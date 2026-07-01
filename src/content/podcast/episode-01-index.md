@@ -11,7 +11,7 @@ tags:
 
 ## 数据心跳正式上线并发布
 
-![](/images/Pasted%20image%2020260629140730.png) 
+![](/images/dp-logo.png) 
 
 在 AI 浪潮与数据洪流的双重驱动下，NetApp 全闪存产品矩阵如何重新定义企业存储的性能边界？
 
