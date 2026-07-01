@@ -1,7 +1,6 @@
 @import "tailwindcss";
 @plugin "@tailwindcss/typography";
 
-/* 关键：配置 dark 模式使用 class 策略 */
 @variant dark (&:where(.dark, .dark *));
 
 @theme {
@@ -22,108 +21,94 @@ body {
   @apply max-w-none;
 }
 
-/* ========== 浅色模式下的 prose 文字颜色 ========== */
+/* ========== 移动端按钮重置 ========== */
+button,
+[role="button"] {
+  -webkit-appearance: none;
+  appearance: none;
+  -webkit-tap-highlight-color: transparent;
+  touch-action: manipulation;
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+/* 确保点击区域足够大（移动端最小 44px） */
+#theme-toggle-wrapper {
+  min-width: 44px;
+  min-height: 44px;
+}
+
+/* ========== 浅色模式 prose ========== */
 .prose {
   color: #334155;
 }
-
-.prose h1,
-.prose h2,
-.prose h3,
-.prose h4,
-.prose h5,
-.prose h6 {
+.prose h1, .prose h2, .prose h3, .prose h4, .prose h5, .prose h6 {
   color: #0f172a;
 }
-
 .prose strong {
   color: #0f172a;
 }
-
 .prose a {
   color: #2563eb;
 }
-
 .prose a:hover {
   color: #1d4ed8;
 }
-
 .prose code {
   background-color: #f1f5f9;
   color: #0f172a;
 }
-
 .prose pre {
   background-color: #1e293b;
   color: #f1f5f9;
 }
-
 .prose blockquote {
   border-left-color: #cbd5e1;
   color: #475569;
 }
 
-/* ========== 深色模式下的 prose 文字颜色 ========== */
+/* ========== 深色模式 prose ========== */
 .dark .prose {
   color: #cbd5e1;
 }
-
-.dark .prose h1,
-.dark .prose h2,
-.dark .prose h3,
-.dark .prose h4,
-.dark .prose h5,
-.dark .prose h6 {
+.dark .prose h1, .dark .prose h2, .dark .prose h3, .dark .prose h4, .dark .prose h5, .dark .prose h6 {
   color: #f1f5f9;
 }
-
 .dark .prose a {
   color: #60a5fa;
 }
-
 .dark .prose a:hover {
   color: #93c5fd;
 }
-
 .dark .prose strong {
   color: #f1f5f9;
 }
-
 .dark .prose code {
   background-color: #1e293b;
   color: #e2e8f0;
 }
-
 .dark .prose pre {
   background-color: #0f172a;
 }
-
 .dark .prose blockquote {
   border-left-color: #475569;
   color: #94a3b8;
 }
-
 .dark .prose hr {
   border-color: #334155;
 }
-
-.dark .prose ol > li::marker,
-.dark .prose ul > li::marker {
+.dark .prose ol > li::marker, .dark .prose ul > li::marker {
   color: #94a3b8;
 }
-
 .dark .prose figcaption {
   color: #94a3b8;
 }
-
 .dark .prose table {
   border-color: #334155;
 }
-
 .dark .prose thead {
   border-bottom-color: #475569;
 }
-
 .dark .prose tbody tr {
   border-bottom-color: #334155;
 }
