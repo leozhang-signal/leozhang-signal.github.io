@@ -5,7 +5,7 @@ import tailwindcss from '@tailwindcss/vite';
 // import tailwind from "@astrojs/tailwind";
 
 export default defineConfig({
-  site: 'https://michaelzhang-tech.github.io',
+  site: 'https://leozhang-signal.github.io',
   base: '/',
   integrations: [mdx(), sitemap()],
   vite: { plugins: [tailwindcss()] },

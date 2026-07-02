@@ -1,10 +1,10 @@
 // src/lib/const.ts
 
 export const SITE = {
-  title: 'Michael Zhang',
+  title: 'Leo Zhang',
   description: 'AI Infra · Storage · Networking · Systems Thinking',
-  author: 'Michael Zhang',
-  siteUrl: 'https://michaelzhang-tech.github.io',
+  author: 'Leo Zhang',
+  siteUrl: 'https://leozhang-signal.github.io',
 };
 
 export const NAV_LINKS = [
@@ -18,7 +18,7 @@ export const NAV_LINKS = [
 export const SOCIALS = [
   {
     name: 'GitHub',
-    url: 'https://github.com/michaelzhang-tech',
+    url: 'https://github.com/leozhang-signal',
   },
   {
     name: 'LinkedIn',
@@ -26,6 +26,6 @@ export const SOCIALS = [
   },
   {
     name: 'Email',
-    url: 'mailto:michael23leiz@gmail.com',
+    url: 'mailto:air23zhang@qq.com',
   },
 ];
