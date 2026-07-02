@@ -1,6 +1,6 @@
 ---
 title: "Data Pulse EP1 (上) | NetApp AFF A 系列全解析：从命名规则到架构升级"
-pubDate: 2026-06-29
+pubDate: 2025-04-27
 description: "深入解析 NetApp AFF A 系列全闪存产品的产品矩阵、命名规则和架构升级——Intel QAT、DDR5、PCIe5 如何重塑企业存储"
 tags:
   - podcast

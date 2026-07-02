@@ -1,7 +1,7 @@
 ---
-title: Data Pulse EP1：探索性能与灵活性的极限
+title: Data Pulse EP1 - 探索AFF全闪存储性能与灵活性的极限
 description: '"NetApp AFF A 系列全闪存产品深度解析——从命名规则到架构升级，从 A50 到 A900 的性能实战"'
-pubDate: 2026-07-01
+pubDate: 2025-04-27
 duration: 1:44:00
 episodeNumber: 1
 tags:

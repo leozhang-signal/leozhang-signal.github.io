@@ -1,6 +1,6 @@
 ---
-title: "Episode02 PartA - How FlexGroup unleashes the full performance potential of a storage cluster."
-pubDate: 2026-06-29T13:32:53+08:00
+title: "Data Pulse EP2（上）- 聊一聊 FlexGroup 超大卷，如何让集群性能「火力全开」"
+pubDate: 2025-06-05
 description: "How FlexGroup unleashes the full performance potential of a storage cluster"
 tags:
   - podcast
@@ -8,6 +8,7 @@ tags:
 episodeNumber: 2
 duration: "1:08:08"
 ---
+> 🎧 [收听完整播客](https://podcasts.apple.com/cn/podcast/%E7%AC%AC2%E9%9B%86-%E4%B8%8B-%E8%81%8A%E4%B8%80%E8%81%8Aflexgroup%E8%B6%85%E5%A4%A7%E5%8D%B7-%E5%A6%82%E4%BD%95%E8%AE%A9%E9%9B%86%E7%BE%A4%E6%80%A7%E8%83%BD-%E7%81%AB%E5%8A%9B%E5%85%A8%E5%BC%80/id1811048301?i=1000711365715) | [Part B (下) →](/podcast/episode-02-part-b)
 
 ## Episode Summary
 What if your storage performance is no longer limited by a single node?
@@ -20,9 +21,10 @@ FlexGroup超大卷以“1+1>2”的聚合架构破局，将分散存储资源聚
 
 ## Topics Discussed
 
-- The difference between FlexGroup extra-large volumes and FlexVol classic volumes
-- Why reading speed is faster with FlexGroup
-- How FlexGroup improves cluster performance
+- 承前启后话题介绍
+- FlexGroup超大卷和FlexVol经典卷的区别
+- 用FlexGroup为什么读取速度更快
+- FlexGroup如何提升集群性能
 
 ## Key Insights
 

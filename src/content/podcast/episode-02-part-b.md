@@ -1,6 +1,6 @@
 ---
-title: "Episode02 Continue - PartB"
-pubDate: 2026-06-29
+title: "Data Pulse EP2 (下) | FlexGroup首选场景和高级功能"
+pubDate: 2025-06-05
 description: "FlexGroup advanced features in new ONTAP release"
 tags:
   - podcast
@@ -8,6 +8,8 @@ tags:
 episodeNumber: 2
 duration: "42:10"
 ---
+
+> 🎧 [收听完整播客](https://podcasts.apple.com/cn/podcast/%E7%AC%AC2%E9%9B%86-%E4%B8%8A-%E8%81%8A%E4%B8%80%E8%81%8Aflexgroup%E8%B6%85%E5%A4%A7%E5%8D%B7-%E5%A6%82%E4%BD%95%E8%AE%A9%E9%9B%86%E7%BE%A4%E6%80%A7%E8%83%BD-%E7%81%AB%E5%8A%9B%E5%85%A8%E5%BC%80/id1811048301?i=1000711367212) | [Part A (上) →](/podcast/episode-02-part-a)
 
 ## Episode Summary
 在数据规模突破百亿级文件、毫秒级延迟成为刚需的今天，金融、EDA芯片设计、4K/8K渲染等场景正面临存储的"不可能三角"挑战——低延迟、海量规模与高效管理难以兼得。

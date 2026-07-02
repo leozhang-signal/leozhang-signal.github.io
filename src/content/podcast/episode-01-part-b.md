@@ -1,6 +1,6 @@
 ---
 title: "Data Pulse EP1 (下) | A50 性能实战：为什么它能打败 A900？"
-pubDate: 2026-06-29
+pubDate: 2025-04-27
 description: "基于实际测试数据，深度对比 NetApp AFF A50 与 A900 的性能表现，以及企业存储选型决策框架"
 tags:
   - podcast
