@@ -1,13 +1,11 @@
 ---
 title: "第7集（上）- 当电流有了思想: 从钱老到中国电动车，数智脉动30年"
-source: https://www.xiaoyuzhoufm.com/episode/691ab1cbcbba038b42e616b4
-author:
+description: 当电流有了思想 从钱老到中国电动车，数智脉动30年
 pubDate: 2025-11-17
-created: 2026-07-16
-description: 听《数据心跳Data Pulse》上小宇宙。 《数据心跳》是一档由联想凌拓科技有限公司创办，专注数据存储技术变革与全球化数据生态趋势的深度分析栏目，以前沿技术解构与行业级洞察为核心，聚焦数据爆发时代的底层架构革新、存储技术创新及商业场景实践。和每位从业者一起，站在数据的潮头，倾听技术的心跳。
-tags:
-  - clippings
 duration: 1:14:00
+episodeNumber: 7
+tags:
+  - podcast
 ---
 # 第7集（上）- 当电流有了思想 从钱老到中国电动车，数智脉动30年
 
