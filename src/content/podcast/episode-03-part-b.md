@@ -9,7 +9,7 @@ tags:
   - data pulse
 ---
 
-> 🎧 [收听完整播客](https://podcasts.apple.com/cn/podcast/%E6%95%B0%E6%8D%AE%E5%BF%83%E8%B7%B3data-pulse/id1811048301) | [Part B (上) →](/podcast/episode-03-part-a)
+> 🎧 [收听完整播客](https://podcasts.apple.com/cn/podcast/%E6%95%B0%E6%8D%AE%E5%BF%83%E8%B7%B3data-pulse/id1811048301) | [Part A (上) →](/podcast/episode-03-part-a)
 
 ## Episode Summary
 接着上集内容，本集主要讨论企业在数据防护思路上从被动到主动的转换。

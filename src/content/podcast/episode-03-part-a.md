@@ -38,3 +38,7 @@ tags:
 - ONTAP 提供了一整套功能确保数据安全
 
 ## Links
+
+**收听完整节目**：
+- [Apple Podcast]([https://podcasts.apple.com/cn/podcast/%E7%AC%AC1%E9%9B%86-%E4%B8%8A-%E6%8E%A2%E7%B4%A2%E6%80%A7%E8%83%BD%E4%B8%8E%E7%81%B5%E6%B4%BB%E6%80%A7%E7%9A%84%E6%9E%81%E9%99%90-%E6%B7%B1%E5%85%A5%E8%A7%A3%E6%9E%90netapp-aff-a%E7%B3%BB%E5%88%97%E5%85%A8%E9%97%AA%E5%AD%98%E4%BA%A7%E5%93%81/id1811048301?i=1000705195187](https://podcasts.apple.com/cn/podcast/%E7%AC%AC3%E9%9B%86-%E4%B8%8A-%E5%8A%A0%E5%AF%86%E6%94%BB%E5%87%BB0%E5%8F%B7%E6%A1%A3%E6%A1%88-%E6%88%91%E4%BB%AC%E6%9C%AC%E4%BB%A5%E4%B8%BA%E6%9C%89%E5%A4%87%E4%BB%BD%E5%B0%B1%E5%AE%89%E5%85%A8%E4%BA%86/id1811048301?i=1000716041679))
+- [小宇宙]([https://www.xiaoyuzhoufm.com/episode/680a0ded8aed253fa348e7f](https://www.xiaoyuzhoufm.com/episode/686b339860f8f77d402fc302))
