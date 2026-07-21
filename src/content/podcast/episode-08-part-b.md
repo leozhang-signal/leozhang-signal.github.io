@@ -17,7 +17,8 @@ tags:
 
 在席卷全球的AI基础设施变革中，数据存储正从“被动承载”转向“主动赋能”。2025 年 NetApp INSIGHT 技术大会聚焦企业最紧迫的4大需求上：AI 创新、数据基础设施现代化、云转型和网络弹性，并重磅发布 NetApp AFX 人工智能产品组合，正重新定义混合多云环境下数据的管理、保护与优化方式。当人工智能成为全新企业级工作负载，如何通过全解耦存储架构破解 AI 训练的性能瓶颈、容量压力与协同难题？  
 
-[下集](https://podcasts.apple.com/cn/podcast/%E7%AC%AC8%E9%9B%86-%E4%B8%8B-netapp-afx-%E6%98%AF-ai-%E5%AD%98%E5%82%A8-%E8%BF%98%E6%98%AFontap-%E7%9A%84ai%E6%97%B6%E4%BB%A3-%E6%96%B0%E7%9A%AE%E8%82%A4/id1811048301?i=1000741960422)
+- [上集](https://podcasts.apple.com/cn/podcast/%E7%AC%AC8%E9%9B%86-%E4%B8%8A-netapp-afx-%E6%98%AF-ai-%E5%AD%98%E5%82%A8-%E8%BF%98%E6%98%AFontap-%E7%9A%84ai%E6%97%B6%E4%BB%A3-%E6%96%B0%E7%9A%AE%E8%82%A4/id1811048301?i=1000741960368)
+- [下集](https://podcasts.apple.com/cn/podcast/%E7%AC%AC8%E9%9B%86-%E4%B8%8B-netapp-afx-%E6%98%AF-ai-%E5%AD%98%E5%82%A8-%E8%BF%98%E6%98%AFontap-%E7%9A%84ai%E6%97%B6%E4%BB%A3-%E6%96%B0%E7%9A%AE%E8%82%A4/id1811048301?i=1000741960422)
 ## Topics Discussed
 
 NetApp AFX 并非一次简单的产品升级，而是一次架构革命，并重新定义了人工智能时代的真正的数据存储，它整合了数据智能、存储性能与容量资源，依托 ONTAP 架构与 AI Data Engine（AIDE），可提供覆盖 AI 全生命周期的数据存储与管理方案，为企业 AI 转型筑牢数据基石。  

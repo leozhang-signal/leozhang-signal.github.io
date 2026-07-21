@@ -24,6 +24,7 @@ tags:
 
 
 - [上集](https://podcasts.apple.com/cn/podcast/%E7%AC%AC9%E9%9B%86-%E4%B8%8A-2025%E5%B9%B4%E6%84%9F%E6%81%A9%E7%89%B9%E5%88%AB%E7%AF%87/id1811048301?i=1000743282886)
+- [下集](https://podcasts.apple.com/cn/podcast/%E7%AC%AC9%E9%9B%86-%E4%B8%8B-2025%E5%B9%B4%E6%84%9F%E6%81%A9%E7%89%B9%E5%88%AB%E7%AF%87/id1811048301?i=1000743288590)
 
 ## Links
 <森林的心跳> 联想凌拓存储技术社区，招募活动持续进行中：https://cgi.lenovonetapp.com/u/pAAoj

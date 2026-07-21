@@ -23,6 +23,7 @@ tags:
 敬邀您与我们围聚声波之中，共暖此冬，共期新岁，一起步入崭新鲜活的2026年。
 
 
+- [上集](https://podcasts.apple.com/cn/podcast/%E7%AC%AC9%E9%9B%86-%E4%B8%8A-2025%E5%B9%B4%E6%84%9F%E6%81%A9%E7%89%B9%E5%88%AB%E7%AF%87/id1811048301?i=1000743282886)
 - [下集](https://podcasts.apple.com/cn/podcast/%E7%AC%AC9%E9%9B%86-%E4%B8%8B-2025%E5%B9%B4%E6%84%9F%E6%81%A9%E7%89%B9%E5%88%AB%E7%AF%87/id1811048301?i=1000743288590)
 
 ## Links
