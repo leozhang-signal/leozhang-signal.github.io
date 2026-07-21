@@ -1,5 +1,5 @@
 ---
-title: 2025年感恩特别篇
+title: Data Pulse EP9（上） - 2025年感恩特别篇
 description: 2025年感恩特别篇来自听众，社区以及主创人员的祝福和感想
 pubDate: 2026-07-21
 duration: 2:04:00
