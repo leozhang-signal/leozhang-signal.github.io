@@ -25,6 +25,8 @@ tags:
 \- 云转型（Clou...去小宇宙查看完整单集简介  
 在小宇宙查看该单集文稿
 
+- [本期节目链接](https://podcasts.apple.com/cn/podcast/%E7%AC%AC%E5%85%AD%E9%9B%86-2025-netapp-insight-%E6%8A%80%E6%9C%AF%E5%A4%A7%E4%BC%9A%E5%89%8D%E7%9E%BB/id1811048301?i=1000728527203)
+
 - 节目
 	[数据心跳Data Pulse](https://podcasts.apple.com/cn/podcast/%E6%95%B0%E6%8D%AE%E5%BF%83%E8%B7%B3data-pulse/id1811048301)
 - 发布时间
