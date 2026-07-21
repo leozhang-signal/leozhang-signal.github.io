@@ -15,6 +15,7 @@ tags:
 
 以技术为脉，传递存储领域的生命力与创新精神，欢迎收听本期节目——《双机恋爱日记：一个存储的两地情缘》——SnapMirror Active Sync教你如何跨城也能“同步心跳”。
 
+- [下集](https://podcasts.apple.com/cn/podcast/%E7%AC%AC4%E9%9B%86-%E4%B8%8B-%E5%8F%8C%E6%9C%BA%E6%81%8B%E7%88%B1-%E5%AD%98%E5%82%A8%E4%B8%A4%E5%9C%B0%E6%83%85%E7%BC%98-snapmirror-active-sync%E8%B7%A8%E5%9F%8E%E4%B9%9F%E8%83%BD-%E5%90%8C%E6%AD%A5%E5%BF%83%E8%B7%B3/id1811048301?i=1000719737254)
 ## Topics Discussed
 
 联想凌拓 SnapMirror Active Sync（SMAS）技术，以 “对称双活” 打破跨域壁垒，构建 “两地一体” 的同步读写的存储默契，让数据跨城 “同频跳动”：
