@@ -1,5 +1,5 @@
 ---
-title: Data Pulse EP11 (上) - 一次失败的勒索测试，反而让我真正理解了ARP for SAN
+title: Data Pulse EP11 (下) - 一次失败的勒索测试，反而让我真正理解了ARP for SAN
 description: 聚焦 ONTAP 9.17.1 的 ARP for SAN：它是否真的能将 ARP/AI 从 NAS 无缝扩展到 SAN？
 pubDate: 2026-02-12
 duration: 1:07:00
