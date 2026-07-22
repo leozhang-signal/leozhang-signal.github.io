@@ -1,5 +1,5 @@
 ---
-title: Data Pulse EP10（上）- 为NetApp FlexCache正名之旅 - FlexCache的读写机制详解
+title: Data Pulse EP10（Part1）- 为NetApp FlexCache正名之旅 - FlexCache的读写机制详解
 description: 通过FlexCache让数据在中心和分站点自由访问和流动
 pubDate: 2026-01-21
 duration: 34:00
@@ -16,8 +16,10 @@ tags:
 
 NetAppFlexCache并非简单的"缓存"技术，而是一套成熟的"以文件系统为单位的分布式读取扩展机制"。通过将数据主权留在本地（源端）与极致的访问性能（缓存端）相结合，并在底层通过严格的锁机制保障一致性，FlexCache为企业构建了一个既安全又高效的全球化研发数据平台。
 
-- [上集](https://podcasts.apple.com/cn/podcast/%E7%AC%AC10%E9%9B%86-part1-%E4%B8%BAnetapp-flexcache%E6%AD%A3%E5%90%8D%E4%B9%8B%E6%97%85-flexcache%E7%9A%84%E8%AF%BB%E5%86%99%E6%9C%BA%E5%88%B6%E8%AF%A6%E8%A7%A3/id1811048301?i=1000746022762)
-- [下集](https://podcasts.apple.com/cn/podcast/%E7%AC%AC10%E9%9B%86-part2-%E4%B8%BAnetapp-flexcache%E6%AD%A3%E5%90%8D%E4%B9%8B%E6%97%85-flexcache%E7%9A%84%E8%AF%BB%E5%86%99%E6%9C%BA%E5%88%B6%E8%AF%A6%E8%A7%A3/id1811048301?i=1000746023469)
+- [Part1](https://podcasts.apple.com/cn/podcast/%E7%AC%AC10%E9%9B%86-part1-%E4%B8%BAnetapp-flexcache%E6%AD%A3%E5%90%8D%E4%B9%8B%E6%97%85-flexcache%E7%9A%84%E8%AF%BB%E5%86%99%E6%9C%BA%E5%88%B6%E8%AF%A6%E8%A7%A3/id1811048301?i=1000746022762)
+- [Part2](https://podcasts.apple.com/cn/podcast/%E7%AC%AC10%E9%9B%86-part2-%E4%B8%BAnetapp-flexcache%E6%AD%A3%E5%90%8D%E4%B9%8B%E6%97%85-flexcache%E7%9A%84%E8%AF%BB%E5%86%99%E6%9C%BA%E5%88%B6%E8%AF%A6%E8%A7%A3/id1811048301?i=1000746023469)
+- [Part3](https://podcasts.apple.com/cn/podcast/%E7%AC%AC10%E9%9B%86-part3-%E4%B8%BAnetapp-flexcache%E6%AD%A3%E5%90%8D%E4%B9%8B%E6%97%85-flexcache%E7%9A%84%E8%AF%BB%E5%86%99%E6%9C%BA%E5%88%B6%E8%AF%A6%E8%A7%A3/id1811048301?i=1000746039994)
+- [Part4](https://podcasts.apple.com/cn/podcast/%E7%AC%AC10%E9%9B%86-part4-%E4%B8%BAnetapp-flexcache%E6%AD%A3%E5%90%8D%E4%B9%8B%E6%97%85-flexcache%E7%9A%84%E8%AF%BB%E5%86%99%E6%9C%BA%E5%88%B6%E8%AF%A6%E8%A7%A3/id1811048301?i=1000746041197)
 
 ## Topics Discussed
 
