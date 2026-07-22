@@ -13,9 +13,7 @@ tags:
 
 ![](https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/97/8b/c9/978bc92d-f4a1-4f5c-0dd3-d5e058f4e088/mza_8602982882411039344.png/600x600bb.webp)
 
-## 第11集（上）- 一次失败的勒索测试，反而让我真正理解了ARP for SAN[![](https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9a/6e/8a/9a6e8a6a-1d48-a5b8-3da1-49c001d31a57/mza_157120188981977255.jpg/80x80bb.webp)](https://podcasts.apple.com/cn/podcast/%E6%95%B0%E6%8D%AE%E5%BF%83%E8%B7%B3data-pulse/id1811048301)
-
-[数据心跳Data Pulse](https://podcasts.apple.com/cn/podcast/%E6%95%B0%E6%8D%AE%E5%BF%83%E8%B7%B3data-pulse/id1811048301)
+# Episode Summary
 
 在 AI 加持下，勒索攻击正在进化成“毫秒级攻防”，传统备份方案早已不再万能。金融交易系统、核心数据库等关键业务场景中，SAN 存储就是企业数据资产的“心脏地带”。当勒索攻击开始向核心业务渗透，SAN 的安全防护，正在成为企业生存的关键防线。  
 
