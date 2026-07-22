@@ -11,7 +11,7 @@ tags:
 
 ## Episode Summary
 
-![](https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a1/03/1f/a1031fd1-fff0-c805-dbd9-b51fe76cab15/mza_16348485074243966305.png/600x600bb.webp)[![](https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9a/6e/8a/9a6e8a6a-1d48-a5b8-3da1-49c001d31a57/mza_157120188981977255.jpg/80x80bb.webp)](https://podcasts.apple.com/cn/podcast/%E6%95%B0%E6%8D%AE%E5%BF%83%E8%B7%B3data-pulse/id1811048301)
+![](https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a1/03/1f/a1031fd1-fff0-c805-dbd9-b51fe76cab15/mza_16348485074243966305.png/600x600bb.webp)[![80](https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9a/6e/8a/9a6e8a6a-1d48-a5b8-3da1-49c001d31a57/mza_157120188981977255.jpg/80x80bb.webp)](https://podcasts.apple.com/cn/podcast/%E6%95%B0%E6%8D%AE%E5%BF%83%E8%B7%B3data-pulse/id1811048301)
 
 [数据心跳Data Pulse](https://podcasts.apple.com/cn/podcast/%E6%95%B0%E6%8D%AE%E5%BF%83%E8%B7%B3data-pulse/id1811048301)
 

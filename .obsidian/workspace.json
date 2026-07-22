@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/content/podcast/episode-09-part-b.md",
+                "file": "src/content/podcast/episode-07-part-b.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "episode-09-part-b"
+              "title": "episode-07-part-b"
             }
           }
         ]
@@ -186,23 +186,24 @@
   },
   "active": "6d861029d8821004",
   "lastOpenFiles": [
-    "src/content/podcast/episode-09-part-a.md",
-    "src/content/podcast/episode-10-part-b.md",
+    "src/content/podcast/episode-07-part-a.md",
+    "src/content/podcast/episode-08-part-a.md",
+    "src/content/podcast/episode-08-part-b.md",
+    "src/content/podcast/episode-09-part-b.md",
     "src/content/podcast/episode-10-part-a.md",
+    "src/content/podcast/episode-10-part-b.md",
+    "src/content/podcast/episode-02-index.md",
+    "src/content/podcast/episode-01-part-a.md",
+    "src/content/podcast/episode-01-index.md",
+    "src/content/podcast/episode-09-part-a.md",
     "src/content/podcast/episode-03-part-b.md",
     "src/content/podcast/episode-04-part-a.md",
     "src/content/podcast/episode-04-part-b.md",
     "src/content/podcast/episode-05-part-a.md",
     "src/content/podcast/episode-05-part-b.md",
     "src/content/podcast/episode-07-part-b.md",
-    "src/content/podcast/episode-07-part-a.md",
-    "src/content/podcast/episode-08-part-b.md",
-    "src/content/podcast/episode-08-part-a.md",
-    "src/content/podcast/episode-09-part-b.md",
     "src/content/podcast/episode-03-part-a.md",
     "src/content/podcast/episode-06.md",
-    "src/content/podcast/episode-01-index.md",
-    "src/content/podcast/episode-01-part-a.md",
     "Clippings",
     "src/content/podcast/episode-02-part-a.md",
     "README.md",
@@ -217,7 +218,6 @@
     "public/images/Pasted image 20260701093923.png",
     "src/content/podcast/episode-02-part-b.md",
     "src/content/post/Astro-vs-Hugo.md",
-    "src/content/post/first-post.md",
     "src/content/post/hello-world.mdx",
     "src/content/research/全球数据量增长预测和动因分析.mdx",
     "src/content/post/test.mdx",
